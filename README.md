@@ -1,6 +1,12 @@
 # Web Development Project 1 - Kyla's Favorite Food Places around Florida
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/9090d87c30134cefa85c110787c53a31?sid=1f0de301-193c-4c9f-bfdf-dcb09d51e5e3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/9090d87c30134cefa85c110787c53a31">
+    </a>
+    <a href="https://www.loom.com/share/9090d87c30134cefa85c110787c53a31">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9090d87c30134cefa85c110787c53a31-with-play.gif">
+    </a>
+  </div>
 
 Submitted by: Kyla Tolentino
 
